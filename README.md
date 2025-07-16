@@ -1,7 +1,7 @@
 # Advanced-Product-Searching
 A smart product search engine inspired by Google Search, built using **Data Structures & Algorithms (DSA)**, **Object-Oriented Programming (OOP)**, and real-time **data visualizations**. This project demonstrates how different algorithms perform in real-world search scenarios.
 
-## 🚀 Features
+### 🚀 Features
 
 - 🔎 Multiple Search Techniques:
   - **Linear Search** – Simple and effective for small datasets
@@ -23,7 +23,7 @@ A smart product search engine inspired by Google Search, built using **Data Stru
 
 ---
 
-## 🎯 Project Objectives
+### 🎯 Project Objectives
 
 - Implement and evaluate multiple DSA-based search algorithms
 - Analyze real-world search challenges (typos, incomplete inputs, numeric filters)
@@ -34,7 +34,7 @@ A smart product search engine inspired by Google Search, built using **Data Stru
 
 ---
 
-## 🧠 Tech Stack
+###  Tech Stack
 
 - **Language:** Python  
 - **Libraries:** Pandas, Matplotlib  
@@ -44,26 +44,19 @@ A smart product search engine inspired by Google Search, built using **Data Stru
 ---
 
 
-## 👩‍💻 Team
-
-- **Khadija Sajid**  
-- **Gull-e-Laila** 
-
----
-
-## 📬 Feedback
+###  Feedback
 
 Have suggestions or feedback? Feel free to open an issue or reach out!
 
 ---
 
-## 🏷️ License
+###  License
 
 This project is created for academic learning purposes and is open for educational use.
 
 ---
 
-## 🔖 Tags
+###  Tags
 
 `#Python` `#DSA` `#OOP` `#SearchEngine` `#PowerBI` `#StudentProject` `#COMSATS` `#DataVisualization`
 
