@@ -21,7 +21,7 @@ A smart product search engine inspired by Google Search, built using **Data Stru
   - Error handling for invalid/missing inputs
   - Real-time updates reflected in tables and charts
 
----
+
 
 ### 🎯 Project Objectives
 
@@ -32,7 +32,7 @@ A smart product search engine inspired by Google Search, built using **Data Stru
 - Develop core product management operations (CRUD)
 - Turn classroom concepts into real-world applications
 
----
+
 
 ###  Tech Stack
 
@@ -41,20 +41,20 @@ A smart product search engine inspired by Google Search, built using **Data Stru
 - **Tools:** Power BI  
 - **Concepts:** Custom DSA, OOP
 
----
+
 
 
 ###  Feedback
 
 Have suggestions or feedback? Feel free to open an issue or reach out!
 
----
+
 
 ###  License
 
 This project is created for academic learning purposes and is open for educational use.
 
----
+
 
 ###  Tags
 
