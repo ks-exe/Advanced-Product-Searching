@@ -33,13 +33,22 @@ A smart product search engine inspired by Google Search, built using **Data Stru
 - Turn classroom concepts into real-world applications
 
 
+### 🧩 Tech Stack
 
-###  Tech Stack
+**Language:**  
+- Python
 
-- **Language:** Python  
-- **Libraries:** Pandas, Matplotlib  
-- **Tools:** Power BI  
-- **Concepts:** Custom DSA, OOP
+**Libraries & Frameworks:**  
+- `streamlit` – for building the interactive UI  
+- `pandas` – for data handling  
+- `plotly` – for graph visualizations  
+- `numpy` – for numeric operations  
+- `python-dateutil==2.8.2`, `pytz==2024.1`, `six==1.16.0` – for date/time handling and compatibility
+
+**Concepts Used:**  
+- Custom Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
+- CRUD Operations
 
 
 
