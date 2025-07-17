@@ -27,7 +27,6 @@ A smart product search engine inspired by Google Search, built using **Data Stru
 
 - Implement and evaluate multiple DSA-based search algorithms
 - Analyze real-world search challenges (typos, incomplete inputs, numeric filters)
-- Visualize performance metrics using Power BI and Matplotlib
 - Apply OOP for modular and maintainable design
 - Develop core product management operations (CRUD)
 - Turn classroom concepts into real-world applications
